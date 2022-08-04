@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- For Nova, Apex, ADW, Smart, Action 3 -->
+<resources>
+
+    <item
+        component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}"
+        drawable="q" />
+    <item
+        component="ComponentInfo{com.oplus.camera/com.oplus.camera.Camera/}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{com.heytap.themestore/com.nearme.themespace.activities.ThemeActivity/}"
+        drawable="theme" />
+    <item
+        component="ComponentInfo{by4a.setedit22/by4a.setedit.EditorActivity/}"
+        drawable="setedit" />
+    <item
+        component="ComponentInfo{com.heytap.speechassist/com.heytap.speechassist.launcher.SpeechAssistMainActivity/}"
+        drawable="assistant" />
+    <item
+        component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity/}"
+        drawable="kdeconnect" />
+    <item
+        component="ComponentInfo{com.android.incallui/null/}"
+        drawable="calls" />
+    <item
+        component="ComponentInfo{com.android.contacts/com.android.contacts.PeopleActivityAlias/}"
+        drawable="contacts" />
+    <item
+        component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI/}"
+        drawable="wechat" />
+
+    <!-- 碧蓝航线 -->
+    <item
+        component="ComponentInfo{com.bilibili.azurlane/com.manjuu.azurlane.MainActivity/}"
+        drawable="azur" />
+    <!-- 支付宝 -->
+    <item
+        component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin/}"
+        drawable="alipay" />
+    <!-- 哔哩哔哩 -->
+    <item
+        component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2/}"
+        drawable="bilibili" />
+    <!-- 相册 -->
+    <item
+        component="ComponentInfo{com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity/}"
+        drawable="imageviewer" />
+    <!-- Share -->
+    <item
+        component="ComponentInfo{com.hengye.share/com.hengye.share.Launcher/}"
+        drawable="weibo" />
+    <!-- YouTube Music -->
+    <item
+        component="ComponentInfo{com.vanced.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity/}"
+        drawable="music" />
+    <!-- 录音 -->
+    <item
+        component="ComponentInfo{com.coloros.soundrecorder/oplus.multimedia.soundrecorder.filebrowser.BrowseFile/}"
+        drawable="soundrecorder" />
+    <!-- 文件管理 -->
+    <item
+        component="ComponentInfo{com.coloros.filemanager/com.oplus.filemanager.main.ui.MainActivity/}"
+        drawable="file" />
+    <!-- 信息 -->
+    <item
+        component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList/}"
+        drawable="message" />
+
+
+</resources>
